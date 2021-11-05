@@ -1,0 +1,14 @@
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Heranca\Exercicio Heranca\bin\Debug\netcoreapp3.1\Exercicio Heranca.exe
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Heranca\Exercicio Heranca\bin\Debug\netcoreapp3.1\Exercicio Heranca.deps.json
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Heranca\Exercicio Heranca\bin\Debug\netcoreapp3.1\Exercicio Heranca.runtimeconfig.json
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Heranca\Exercicio Heranca\bin\Debug\netcoreapp3.1\Exercicio Heranca.runtimeconfig.dev.json
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Heranca\Exercicio Heranca\bin\Debug\netcoreapp3.1\Exercicio Heranca.dll
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Heranca\Exercicio Heranca\bin\Debug\netcoreapp3.1\Exercicio Heranca.pdb
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Heranca\Exercicio Heranca\obj\Debug\netcoreapp3.1\Exercicio Heranca.csproj.AssemblyReference.cache
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Heranca\Exercicio Heranca\obj\Debug\netcoreapp3.1\Exercicio Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Heranca\Exercicio Heranca\obj\Debug\netcoreapp3.1\Exercicio Heranca.AssemblyInfoInputs.cache
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Heranca\Exercicio Heranca\obj\Debug\netcoreapp3.1\Exercicio Heranca.AssemblyInfo.cs
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Heranca\Exercicio Heranca\obj\Debug\netcoreapp3.1\Exercicio Heranca.csproj.CoreCompileInputs.cache
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Heranca\Exercicio Heranca\obj\Debug\netcoreapp3.1\Exercicio Heranca.dll
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Heranca\Exercicio Heranca\obj\Debug\netcoreapp3.1\Exercicio Heranca.pdb
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Heranca\Exercicio Heranca\obj\Debug\netcoreapp3.1\Exercicio Heranca.genruntimeconfig.cache
